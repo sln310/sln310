@@ -11,18 +11,10 @@ You can click the Preview link to take a look at your changes.
 </p>
  -->
 
-<!-- <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&count_private=true&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&count_private=true&show_icons=true&show_icons=true&theme=dark" />
 </p>
- -->
+ 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
- -->
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sln310&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310" />
-</a>
