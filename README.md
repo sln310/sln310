@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </p>
  -->
 
-<!-- <p align="left"> 
+ <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/ryo-ma/github-profile-trophy)
  -->
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sln310i&count_private=true&show_icons=true" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=sln310i&count_private=true&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sln310" />
+ -->
