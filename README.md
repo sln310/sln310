@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
  -->
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sln310/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=sln310&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sln310/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/sln310)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=tokyonight)](https://github.com/sln310)
