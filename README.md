@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
-!--- Status & lamguage --->
+<!--- Status & lamguage --->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&show_icons=true&theme=radical" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=omni" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=onedark" />
 </p>
