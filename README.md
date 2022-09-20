@@ -16,7 +16,10 @@ You can click the Preview link to take a look at your changes.
 
 <!--- Status & lamguage --->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=onedark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=onedark" />
+</a>
+  <!---<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=onedark" />--->
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&show_icons=true&theme=onedark" />
 </p>
   
@@ -25,6 +28,4 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310" />
-</a>
+
