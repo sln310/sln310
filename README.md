@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Hi, I am Hanako Sato <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I'm @sln310 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 [![sln310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sln310&theme=tokyonight)](https://github.com/sln310/github-readme-stats)
 <!-- *** -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+
 <!---
 📊 **This Week I Spent My Time On** 
 
