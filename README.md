@@ -6,7 +6,8 @@ sln310/sln310 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=onedark)
 
 
 <!--- Status & lamguage --->
