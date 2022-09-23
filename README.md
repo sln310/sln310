@@ -30,4 +30,7 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&theme=dracula&show_icons=ture" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&show_icons=true&theme=dracula" />
+</p>
