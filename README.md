@@ -20,5 +20,3 @@ You can click the Preview link to take a look at your changes.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
