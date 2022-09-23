@@ -21,4 +21,3 @@ You can click the Preview link to take a look at your changes.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sln310&theme=gruvbox)
