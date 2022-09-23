@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @sln310
+<h1 align="center">👋 Hi, I’m @sln310</h1>
+
+<!--- 👋 Hi, I’m @sln310
 
 <!---
 sln310/sln310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
