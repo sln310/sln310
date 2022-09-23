@@ -74,5 +74,5 @@ No Activity Tracked This Week
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bjpg97qxch2kbigp9qzxxtjls)
+ <---![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bjpg97qxch2kbigp9qzxxtjls)
 
