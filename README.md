@@ -6,7 +6,7 @@ sln310/sln310 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=onedark&show_icons=ture)
 
 
 <!--- Status & lamguage --->
@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sln310&theme=gruvbox)
