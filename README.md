@@ -6,19 +6,18 @@ sln310/sln310 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=gruvbox)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=onedark) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=gruvbox) -->
 
 
-<!--- Status & lamguage --->
-<p align="left"> 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+<!--- Status & language --->
+<!-- <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&show_icons=true&theme=gruvbox" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&theme=gruvbox&show_icons=ture" /> 
 </p>
-  
+   -->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
+<!-- Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!---theme=onedark--->
