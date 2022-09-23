@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @sln310</h1>
+<h1 align="left">👋 Hi, I’m @sln310</h1>
 
 <!--- 👋 Hi, I’m @sln310
 
@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 </a>
   <!---<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&theme=onedark" />--->
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&show_icons=true&theme=onedark" />
+
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuyaHirano1994&layout=compact&show_icons=true&theme=dracula" />
 </p>
   
 
