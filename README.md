@@ -1,4 +1,10 @@
-<h1 align="left">👋 Hi, I’m @sln310</h1>
+<p align="center"> <h1 align="center"> Hi, I am Hanako Sato <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1> </p>
+<p align="center">
+
+<!-- <h1 align="left">👋 Hi, I’m @sln310</h1> -->
 
 
 <!---
@@ -31,9 +37,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-[![sln310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sln310&theme=tokyonight)](https://github.com/sln310/github-readme-stats)
-<!-- *** -->
-
+<!---
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -52,7 +56,8 @@ No Activity Tracked This Week
 
 
  Last Updated on 22/09/2022 18:54:53 UTC
-<!--END_SECTION:waka-->
+-->
+
 ***
 
 **🛠 &nbsp;Tech Stack**
