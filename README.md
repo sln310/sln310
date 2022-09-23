@@ -22,3 +22,12 @@ You can click the Preview link to take a look at your changes.
 )](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!---theme=onedark--->
+
+
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=sln310&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sln310" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
