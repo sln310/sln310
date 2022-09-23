@@ -31,10 +31,8 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-<!-- [![sln310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sln310&theme=tokyonight)](https://github.com/sln310/github-readme-stats)-->
+[![sln310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sln310&theme=tokyonight)](https://github.com/sln310/github-readme-stats)
 <!-- *** -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
