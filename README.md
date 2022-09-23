@@ -30,3 +30,38 @@ You can click the Preview link to take a look at your changes.
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
+
+<!-- [![sln310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sln310&theme=tokyonight)](https://github.com/sln310/github-readme-stats)-->
+<!-- *** -->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Canada/Vancouver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 22/09/2022 18:54:53 UTC
+<!--END_SECTION:waka-->
+***
+
+**🛠 &nbsp;Tech Stack**
+
+- Languages: &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
