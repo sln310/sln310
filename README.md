@@ -75,7 +75,7 @@ No Activity Tracked This Week
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 - Design Tools: &nbsp;
-  ![Photoshop] (https://badgen.net/badge/photoshop/Photoshop/icon=photoshop
+  ![Photoshop](https://badgen.net/badge/photoshop/Photoshop/icon=photoshop
   
 <!--   31A8FF -->
   
