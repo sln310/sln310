@@ -76,7 +76,7 @@ No Activity Tracked This Week
   
 - Design Tools: &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=Photoshop)
-  [![Photoshop](https://www.photoshop.com/)(https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)
+  [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)
 <!--   31A8FF -->
   
  <!---![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bjpg97qxch2kbigp9qzxxtjls)--->
