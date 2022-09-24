@@ -76,7 +76,8 @@ No Activity Tracked This Week
   
 - Design Tools: &nbsp;
   ![Photoshop]
-  (img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> /badge/-Photoshop-333333?style=flat&logo=Photoshop?31A8FF-Photoshop)
+  (img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
+<!--   /badge/-Photoshop-333333?style=flat&logo=Photoshop?31A8FF-Photoshop) -->
 <!--               (https://badgen.net/badge/icon=photoshop/Photoshop/icon=photoshop -->
   
 <!--   31A8FF -->
