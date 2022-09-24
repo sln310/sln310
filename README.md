@@ -76,6 +76,7 @@ No Activity Tracked This Week
   
 - Design Tools: &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=Photoshop?31A8FF-Photoshop)
+  https://badgen.net/badge/:subject/:status/:007ACC?icon=photoshop
   
 <!--   31A8FF -->
   
