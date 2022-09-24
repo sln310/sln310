@@ -75,10 +75,7 @@ No Activity Tracked This Week
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 - Design Tools: &nbsp;
-  ![Photoshop]
-  (img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
-<!--   /badge/-Photoshop-333333?style=flat&logo=Photoshop?31A8FF-Photoshop) -->
-<!--               (https://badgen.net/badge/icon=photoshop/Photoshop/icon=photoshop -->
+  ![Photoshop](https://badgen.net/badge/icon=photoshop/Photoshop/icon=photoshop
   
 <!--   31A8FF -->
   
