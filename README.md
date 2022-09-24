@@ -77,7 +77,7 @@ No Activity Tracked This Week
 - Design Tools: &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FE9A01)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261)
   
 <!--   ![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop-333333?style=flat&logo=Photoshop) -->
   
