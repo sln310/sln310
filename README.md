@@ -4,7 +4,7 @@
          width="45" /> </h1> </p>
 <p align="center">
 
-<!-- <h1 align="left">👋 Hi, I’m @sln310</h1> -->
+<!-- <h1 align="left">👋 Hi, I’m Hanako Sato</h1> -->
 
 
 <!---
