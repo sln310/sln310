@@ -31,8 +31,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 - Design Tools: &nbsp;
- <a href="ttps://www.photoshop.com/en"><img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF" /></a>
-  <a href="ttps://www.illustrator.com/en"><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01" /></a>
+ <a href="https://www.photoshop.com/en"><img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF" /></a>
+  <a href="https://www.illustrator.com/en"><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01" /></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" /></a>
   
 <!-- "https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" -->
