@@ -35,6 +35,6 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261)
  <a href="https://www.figma.com>
-         <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261"></a>
+         <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" /></a>
   
 <!-- "https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" -->
