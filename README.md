@@ -32,7 +32,7 @@
   
 - Design Tools: &nbsp;
  <a href="https://www.photoshop.com/en"><img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF" /></a>
-  <a href="https://www.illustrator.com/en"><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01" /></a>
+  <a href="https://www.adobe.com/ca/creativecloud/business/teams.html"><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01" /></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" /></a>
   
 <!-- "https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" -->
