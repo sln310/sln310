@@ -31,9 +31,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 - Design Tools: &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261)
- <a href="https://www.figma.com"><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" /></a>
+  ![Photoshop]<a href="ttps://www.photoshop.com/en"><img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF" /></a>
+  ![Illustrator]<a href="ttps://www.illustrator.com/en"><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01" /></a>
+<!--   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261) -->
+![Figma] <a href="https://www.figma.com"><img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" /></a>
   
 <!-- "https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" -->
