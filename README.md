@@ -34,6 +34,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe%20photoshop&logoColor=2EA8FF)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261)
-  <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" href="https://www.figma.com/>
+ <a href="https://www.figma.com>
+         <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261"></a>
   
 <!-- "https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261" -->
