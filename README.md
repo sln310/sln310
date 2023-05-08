@@ -4,29 +4,8 @@
          width="45" /> </h1> </p>
 <p align="center">
 
-<!-- <h1 align="left">👋 Hi, I’m Hanako Sato</h1> -->
 
 
-<!---
-sln310/sln310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sln310&theme=gruvbox) -->
-
-
-<!--- Status & language --->
-<!-- <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sln310&layout=compact&show_icons=true&theme=gruvbox" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sln310&theme=gruvbox&show_icons=ture" /> 
-</p>
-   -->
-
-<!-- Trophy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sln310&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!---theme=onedark--->
 
 
 **⚙️ &nbsp;GitHub Analytics**
@@ -37,30 +16,6 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-
-<!-- *** -->
-<!--START_SECTION:waka-->
-
-<!---
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Canada/Vancouver
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 22/09/2022 18:54:53 UTC
--->
 
 ***
 
@@ -80,14 +35,4 @@ No Activity Tracked This Week
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe%20Illustrator&logoColor=FE9A01)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FF7261)
   
-<!--   ![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop-333333?style=flat&logo=Photoshop) -->
-  
-  
-<!--   (https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000) -->
-<!--   31A8FF -->
-  
- <!---![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bjpg97qxch2kbigp9qzxxtjls)--->
 
-<!-- (https://img.shields.io/badge -->
-
-<!-- Rahul Kashyap -->
