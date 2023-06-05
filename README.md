@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hanakosato.dev@gmail.com**
 
-- ⚡ Fun fact **used to **
+- ⚡ Fun fact I'm crazy about kpop idols and I'ne been to Korea over 30times.
 
 ***
 
