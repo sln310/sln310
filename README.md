@@ -4,6 +4,11 @@
          width="45" /> </h1> </p>
 <p align="center">
 
+- 🌱 I’m currently learning **React**
+
+- 📫 How to reach me **hanakosato.dev@gmail.com**
+
+- ⚡ Fun fact **used to **
 
 
 
