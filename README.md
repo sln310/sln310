@@ -33,7 +33,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![scss](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=xd)
+ 
   
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
