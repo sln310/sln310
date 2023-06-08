@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **hanakosato.dev@gmail.com**
-
+         
+- 📄 Know about my experiences **linkedin.com/in/hanako-sato/**
+         
 - ⚡ Fun fact   **I am crazy about K-pop idols and have been to Korea more than 30 times.**
          
 ***
